@@ -24,7 +24,7 @@ A clean and minimal implementation of the classic 2048 puzzle game built using U
 ## 📱 Screenshots
 
 ![Gameplay Screenshot](gameplay.jpeg)
-![Game Over](gameover.jpeg)
+![Game Over](Game_Over.jpeg)
 
 ---
 
